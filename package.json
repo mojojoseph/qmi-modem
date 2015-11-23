@@ -1,0 +1,13 @@
+{
+  "name": "qmi-modem",
+  "version": "1.0.0",
+  "description": "Minimal interface to modem information via QMI",
+  "main": "qmi-modem.js",
+  "dependencies":{
+    "semaphore":"~1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
